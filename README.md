@@ -1,4 +1,4 @@
-# Qtec-Company-DocumentationWorks
+# Qtec-Company-Documentation-Works
  This repository I have attached all of my software documentations related works links based on my previous working company Qtec Solution Limited
  
  [Fresha Feature List](https://docs.google.com/document/d/13bMzP5T_XPYsqKk-gqlKsgIlhdhW0dFB/edit) //
