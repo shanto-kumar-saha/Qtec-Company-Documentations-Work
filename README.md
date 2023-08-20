@@ -17,7 +17,7 @@
  [Aion Tribute](https://docs.google.com/spreadsheets/d/1OjAHiQ-w-0d2x-kNbzBYY2mrcRGnR9cGVRoBj19smLk/edit?usp=sharing) //
  [Soha Mobile App](https://docs.google.com/spreadsheets/d/1aldj-pGFP68uc8ndS38fDNMZ21yGhkYWZAIT3OB0Fao/edit#gid=1844075837) //
  [TMS](https://docs.google.com/spreadsheets/d/1cACBm7frzfvjbsbW5-Ew9ILSQKBEY4Ay/edit?usp=sharing&ouid=114719976392825278555&rtpof=true&sd=true) //
- [Qtec Website](https://docs.google.com/spreadsheets/d/1RrLT4BTvanfGtOK_25T89_1EB5hDOOx_h5152OV18C8/edit#gid=0) //
+ [Qtec Website](https://docs.google.com/spreadsheets/d/1RrLT4BTvanfGtOK_25T89_1EB5hDOOx_h5152OV18C8/edit#gid=0) 
 
  ##Test Plan
  
